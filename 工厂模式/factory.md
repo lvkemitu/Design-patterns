@@ -1,7 +1,7 @@
 ## 工厂模式个人理解
 1. 特点：
    1. 解耦
-2. [UML类图](https://github.com/lvkemitu/Design-patterns/blob/main/image/%E5%8D%95%E4%BE%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8FUML%E7%B1%BB%E5%9B%BE.png)
+2. [UML类图](https://github.com/lvkemitu/Design-patterns/blob/main/image/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8FUML%E7%B1%BB%E5%9B%BE.png)
 3. 单例模式的优缺点
    1. 优点：
       1. 使用工厂来生产对象，我们就只和工厂打交道就可以了，彻底和对象解耦，如果要更换对象，直接在工厂里更换该对象即可，达到了与对象解耦的目的。

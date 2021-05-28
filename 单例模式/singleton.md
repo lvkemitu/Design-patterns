@@ -3,7 +3,7 @@
    * 只有一个实例
    * 自我实例化
    * 提供全局访问点 
-2. [UML类图](https://github.com/lvkemitu/Design-patterns/blob/main/image/%E5%8D%95%E4%BE%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8FUML%E7%B1%BB%E5%9B%BE.png)
+2. [UML类图](https://github.com/lvkemitu/Design-patterns/blob/main/image/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8FUML%E7%B1%BB%E5%9B%BE.png)
 3. 单例模式的优缺点
    1. 优点：
       1. 在内存里只有一个实例，减少了内存的开销，尤其是频繁的创建和销毁实例（比如管理学院首页页面缓存）
